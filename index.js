@@ -5,4 +5,3 @@ function theBeatlesPlay(musicians, instruments) {
     thatBeatle.push(`${musicians} plays ${instruments}`)
     } else
   } return thatBeatle;
-}
