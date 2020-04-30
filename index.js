@@ -5,3 +5,7 @@ function theBeatlesPlay(musicians, instruments) {
     thatBeatle.push(`${musicians[i]} plays ${instruments[i]}`)
     } return thatBeatle;
   }
+
+function johnLennonFacts(facts) {
+  return [...facts, '!!!']
+}
